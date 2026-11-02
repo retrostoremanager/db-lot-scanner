@@ -9,3 +9,4 @@ CREATE SCHEMA IF NOT EXISTS public;
 \i 002_create_scanned_items_table.sql
 \i 003_add_scanned_items_final_price_check.sql
 \i 004_add_indexes.sql
+\i 005_add_company_scoping_and_multi_photo.sql
